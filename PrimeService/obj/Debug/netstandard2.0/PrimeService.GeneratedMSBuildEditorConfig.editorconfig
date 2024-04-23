@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = PrimeService
+build_property.ProjectDir = D:\learning\devmfn\.net\unit-testing-using-dotnet-test\PrimeService\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

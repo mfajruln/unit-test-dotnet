@@ -1,0 +1,25 @@
+{
+  "name": "unit-testing-using-dotnet-test",
+  "version": "1.0.0",
+  "description": "testing commitizen in dotnet project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "commit": "cz"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mfajruln/unit-test-dotnet.git"
+  },
+  "keywords": [
+    "dotnet",
+    "unit",
+    "test"
+  ],
+  "author": "devmfn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mfajruln/unit-test-dotnet/issues"
+  },
+  "homepage": "https://github.com/mfajruln/unit-test-dotnet#readme"
+}
